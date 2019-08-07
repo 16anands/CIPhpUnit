@@ -1,2 +1,2 @@
-# CIPhpUnit
-CodeIgniter &amp; Php Unit
+# CI
+ PHP Unit
